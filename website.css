@@ -1,0 +1,13 @@
+body
+{
+    height: 100%;
+    background-image: radial-gradient(aqua,grey);
+}
+
+table
+{
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    background-image: radial-gradient(grey,white,grey);
+}
